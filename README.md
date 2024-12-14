@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yoshita56
 - 👀 I’m interested in Java Language, MySQL Server, Spring Boot, JDBC and latest techonologies like Cloud Computing.
 - 🌱 I’m currently learning about Java development.
-- 💞️ I’m looking for an opportunity to work as a Software developer intern in any start up in Delhi.
+- 💞️ I’m looking for an opportunity to work as a Software developer intern/trainee in any start up.
 - 📫 Please contact me on my email- yoshitaofficial153@gmail.com
 
 <!---
